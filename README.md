@@ -31,3 +31,5 @@ I'm pretty new to GitHub. I come from a music background with lots of live and s
   - **Discord**: George K#9297
   - **Email**: georgekerridge45@gmail.com
   - **Instagram**: [@georgekerridge](https://www.instagram.com/georgekerridge)
+
+![IMG-20190827-WA0142](https://user-images.githubusercontent.com/118997630/216376091-469fceef-95fb-43f3-a8a5-80244332b971.jpg)
