@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 ## I'm George!
 
-I'm pretty new to GitHub. I come from a music background with lots of live and studio experience. But since Covid I have decided to make a career alteration down a more technology based route. So far, I love this community and I can't wait to get involved with more!
+I'm new to GitHub and the coding communities. I come from a music background with lots of live and studio experience. But since Covid, I have decided to make career alterations towards a more technology-based route. So far, I love this community and can't wait to get involved more!
 
-- 🌱 Currently I am on a **Software Engineering** bootcamp with [HyperionDev](https://www.hyperiondev.com/).
-- 👯 I'm looking to collaborate, help and work with anything ***Music, Art, Creativity*** related projects.
+- 🔭 Currently, I am working on a Front-End engineer career path with [Codecademy](https://www.codecademy.com/).
+- 💪🏻 I have completed a **Software Engineering** bootcamp with [HyperionDev]([https://www.hyperiondev.com/](https://www.hyperiondev.com/portfolio/103922/)).
+- 👯 I'm looking to collaborate, help and work with anything ***Music, Art, Creativity*** related.
 - 💬 Feel free to ask me about **Ableton Live 10**. It is my main DAW workhorse for live performances.
 - 🎸 I currently work with **[Caswell](https://www.instagram.com/caswellofficial/)** as a *Bassist* and *Ableton Programmer*
 - 🎧 You can find my music on:
